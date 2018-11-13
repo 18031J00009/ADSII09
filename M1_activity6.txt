@@ -1,0 +1,8 @@
+Write all the vertices in ascending order, which are adjacent to vertex 0 ?
+1,2,4,5,6.
+Write all the vertices in ascending order, which are adjacent to vertex 7 ?
+8
+Write all the vertices in ascending order, which are adjacent to vertex 9 ?
+10,11,12
+Write all the vertices in ascending order, which are adjacent to vertex 13 ?
+Null
